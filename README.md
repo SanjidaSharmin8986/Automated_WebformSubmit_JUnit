@@ -21,3 +21,8 @@ In this project, I automatically filled and submitted a web form on the [Digital
 ## Automation Report
 Here is the report of this automation process:
 ![image](https://github.com/SanjidaSharmin8986/Automated_WebformSubmit_JUnit/assets/156296801/e21d9d0b-c214-48af-b4bc-8412ecef4f47)
+
+## Visual Representation of this project:
+https://github.com/SanjidaSharmin8986/Automated_WebformSubmit_JUnit/assets/156296801/9223be95-4dd5-4c22-8902-a6c5b152f48a
+
+
